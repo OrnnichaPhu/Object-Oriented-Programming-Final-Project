@@ -6,5 +6,4 @@ Project Concept Art Idea & Interface Design
 
 
 Real Interface Layout
-<img width="430" alt="image" src="https://user-images.githubusercontent.com/106133601/214288006-fc59f766-1335-4841-abd8-159a931718c5.png">
-![Uploading image.png…]()
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/106133601/214288079-d5c57916-def6-49ab-879a-9c642a576fe9.png">
