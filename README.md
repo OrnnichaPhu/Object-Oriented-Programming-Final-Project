@@ -1,6 +1,8 @@
 # Object-Oriented-Programming-Final-Project
 #*****Project name : Repeat After Me!*****
 
+Repeat After Me is a pattern-based game where players must mimic a sequence that is displayed on the screen. As players progress through each level, the difficulty increases as the number of patterns and time allotted for each pattern also increase.
+
 Repeat After Me contain 2 game mode
 
 1. Normal
